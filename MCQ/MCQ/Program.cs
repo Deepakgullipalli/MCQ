@@ -20,8 +20,8 @@ namespace MCQ
             //Que6 q6 = new Que6();
             //q6.Que6Main();
 
-            Que9 q9 = new Que9();
-            q9.Que9Main();
+            //Que9 q9 = new Que9();
+            //q9.Que9Main();
         }
     }
 }
