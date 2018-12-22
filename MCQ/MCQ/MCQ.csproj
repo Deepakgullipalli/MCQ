@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MCQ\Que1.cs" />
+    <Compile Include="MCQ\Que14.cs" />
     <Compile Include="MCQ\Que3.cs" />
     <Compile Include="MCQ\Que6.cs" />
     <Compile Include="MCQ\Que7.cs" />
