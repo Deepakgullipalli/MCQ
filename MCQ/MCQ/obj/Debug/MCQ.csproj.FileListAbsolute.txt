@@ -4,3 +4,9 @@ F:\MySpace\Technical\POC's\MCQ\MCQ\bin\Debug\MCQ.pdb
 F:\MySpace\Technical\POC's\MCQ\MCQ\obj\Debug\MCQ.csprojResolveAssemblyReference.cache
 F:\MySpace\Technical\POC's\MCQ\MCQ\obj\Debug\MCQ.exe
 F:\MySpace\Technical\POC's\MCQ\MCQ\obj\Debug\MCQ.pdb
+C:\Users\anusi\Source\Repos\MCQ\MCQ\MCQ\bin\Debug\MCQ.exe.config
+C:\Users\anusi\Source\Repos\MCQ\MCQ\MCQ\obj\Debug\MCQ.exe
+C:\Users\anusi\Source\Repos\MCQ\MCQ\MCQ\obj\Debug\MCQ.pdb
+C:\Users\anusi\Source\Repos\MCQ\MCQ\MCQ\bin\Debug\MCQ.exe
+C:\Users\anusi\Source\Repos\MCQ\MCQ\MCQ\bin\Debug\MCQ.pdb
+C:\Users\anusi\Source\Repos\MCQ\MCQ\MCQ\obj\Debug\MCQ.csprojResolveAssemblyReference.cache
